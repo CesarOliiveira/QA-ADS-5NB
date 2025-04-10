@@ -27,6 +27,7 @@ Nome: Davi Souza da Silva</br>
 - **MISSÃO - 1**
 - **MISSÃO - 2**
 - **MISSÃO - 3**
+- **MISSÃO - 4**
 
 ---
 
