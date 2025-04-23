@@ -28,6 +28,9 @@ Nome: Davi Souza da Silva</br>
 - **MISSÃO - 2**
 - **MISSÃO - 3**
 - **MISSÃO - 4**
+- **MISSÃO - 5**
+  link do repositorio da atividade 5.1:
+  https://github.com/CesarOliiveira/Projeto_QA_CI-CD
 
 ---
 
