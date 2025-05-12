@@ -32,5 +32,8 @@ Nome: Davi Souza da Silva</br>
   link do repositorio da atividade 5.1:
   https://github.com/CesarOliiveira/Projeto_QA_CI-CD
 
+
+**Link Projeto Expo-Tech Front-End** - https://github.com/CesarOliiveira/5NB-frontEndTrabalhoFinal
+**Link Projeto Expo-Tech Back-End** - 
 ---
 
